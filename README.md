@@ -1,2 +1,0 @@
-# zernogame
-zernogame
